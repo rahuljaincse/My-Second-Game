@@ -47,3 +47,4 @@ compare(userChoice, computerChoice);
 
 /* This is a test comment for test branch */
 /* This is second test comment for pull and merge request */
+/* This is a test for local merge */
