@@ -45,3 +45,4 @@ return "scissors wins";
 compare(userChoice, computerChoice);
 
 
+/* This is a test comment for test branch */
